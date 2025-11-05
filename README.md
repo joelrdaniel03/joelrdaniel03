@@ -6,7 +6,7 @@
   📫 <a href="mailto:joelrojidaniel1523@gmail.com">joelrojidaniel1523@gmail.com</a> • 
   📞 +91-7902217128 • 
   🌍 Pathanamthitta, Kerala, India • 
-  🔗 <a href="https://github.com/joelr1523" target="_blank">GitHub</a>
+  🔗 <a href="(https://github.com/joelrdaniel03)" target="_blank">GitHub</a>
 </p>
 
 ---
