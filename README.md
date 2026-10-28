@@ -40,7 +40,7 @@ Passionate about learning **new technologies**, improving technical skills, and 
 
 | Degree | Institution | Year |
 |--------|-------------|------|
-| **MCA (Ongoing)** | Musaliar College of Engineering and Technology, Malayalappuzha, Pathanamthitta, Kerala | 2024–2026 |
+| **MCA (Ongoing)** | Musaliar College of Engineering and Technology, Malayalappuzha, Pathanamthitta, Kerala | 2025–2027 |
 | **BCA – Cloud Computing, Ethical Hacking, Cyber Security** | Srinivas University Institute of Computer and Information Science, Mangalore, Karnataka | 2022–2025 |
 
 ---
