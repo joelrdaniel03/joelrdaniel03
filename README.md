@@ -12,12 +12,14 @@
 
 ---
 
+
 ### 🧑‍💼 Professional Summary
-Motivated and enthusiastic **MCA student** with a foundational background in computer applications and programming.
+Currently pursuing my **Master of Computer Applications (MCA)** after completing my **Bachelor of Computer Applications (BCA)**.
 
-Interested in exploring different areas of the IT industry, including **software development, full-stack development, data analytics, and cybersecurity**. Familiar with web technologies and programming, with a willingness to learn new tools and improve technical skills through practical projects.
+Interested in technology and exploring different areas of the IT industry, including **Software Development, Full Stack Development, Data Analytics, and Cybersecurity**.
 
-Passionate about continuous learning, problem-solving, and gaining hands-on experience in technology.
+I enjoy learning new technologies, developing my technical skills, and gaining practical experience through projects. I look forward to exploring new opportunities and growing my knowledge in the IT field.
+
 
 ---
 
